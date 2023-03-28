@@ -1,4 +1,4 @@
-# PomodoroCountdown
+# Pomodoro Countdown
 Pomodoro Countdown is a JavaFX application that allows you to time your work sessions using the Pomodoro technique. 
 
 ### Features
